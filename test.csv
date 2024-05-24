@@ -1,0 +1,6 @@
+id,name,rate_per_unit,quantity,total_units_sold
+1,Test1,50,2,4
+2,Test2,50,2,8
+3,Test3,50,4,5
+4,Test4,50,6,3
+5,Test5,50,5,4
